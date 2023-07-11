@@ -2,7 +2,7 @@
 Segundo projeto realizado para a disciplina Eletrônica para Computação [SSC0180], ministrado pelo docente [Eduardo Vale Simões](https://gitlab.com/simoesusp), durante o primeiro semestre do curso de Bacharelado em Ciências de Computação, na USP campus São Carlos.
 
 # Sobre
-O projeto se trata de uma simulação de uma bomba do tipo "claymore", a qual explode dado a uma 
+O projeto se trata de uma simulação de uma bomba do tipo "claymore", a qual explode de acordo com um comando. Para o trabakho, foi escolhido uma distância mínima de X metros para que a bomba exploda. O ciurcuito conta com um sensor ultrassônico que calcula a distância de algo na frente dele, ao atingir a distância escolhida X, é ativado um curto-circuito que gerará uma faísca em uma lâ de aço, ativando uma bombinha traque, explodindo a bomba. 
 
 ## Integrantes do Grupo 8
 * [Eduarda tuboy Nardin](https://github.com/EduardaTNardin) | nº USP 13732495
@@ -20,12 +20,13 @@ Quantidade | Componente | Especificações | Preço Unidade
 2 | Display 7 segmentos | R$ 3,84
 2 | Decodificador | CD4511BE | R$ 3,00
 1 | Relê | 5V HJR-3FF | R$ 5,00
-1 | Jumper | Macho x macho | R$ 7,00
+10 | Jumpers | Macho x macho | R$ 0,70
+10 | Jumpers | Femea x Macho | R$ 0,70
 1 | Protoboard | BB-01 400P Sem base tower | R$ 20,40
-10 | Jumpers | Femea x Macho | R$ 7,00
 1 | Arduino | UNO | emprestado
 1 | Sensor ultrassônico | HCSR04 | emprestado
-Total | | | | R$
+30 | Bombinha | Traque | R$ 8,00
+Total | | | | R$ 70,58
 
 ## Software
 
