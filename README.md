@@ -26,7 +26,7 @@ Quantidade | Componente | Especificações | Preço Unidade
 1 | Arduino | UNO | emprestado
 1 | Sensor ultrassônico | HCSR04 | emprestado
 30 | Bombinha | Traque | R$ 8,00
-Total | | | | R$ 70,58
+Total | | | R$ 70,58
 
 ## Software
 
