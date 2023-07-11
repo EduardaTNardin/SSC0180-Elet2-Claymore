@@ -17,7 +17,7 @@ Todos os componentes abaixo, menos aqueles classificados como "emprestados", for
 Quantidade | Componente | Especificações | Preço Unidade
 --- | --- | --- | ---
 1 | Buzzer Ativo | Sonalarme 12A 3/7V | R$ 9,50
-2 | Display 7 segmentos | R$ 3,84
+2 | Display 7 segmentos | 0,56 polegadas | R$ 3,84
 2 | Decodificador | CD4511BE | R$ 3,00
 1 | Relê | 5V HJR-3FF | R$ 5,00
 10 | Jumpers | Macho x macho | R$ 0,70
