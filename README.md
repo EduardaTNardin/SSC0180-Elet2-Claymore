@@ -2,12 +2,12 @@
 Segundo projeto realizado para a disciplina Eletrônica para Computação [SSC0180], ministrado pelo docente [Eduardo Vale Simões](https://gitlab.com/simoesusp), durante o primeiro semestre do curso de Bacharelado em Ciências de Computação, na USP campus São Carlos.
 
 # Sobre
-O projeto se trata de uma simulação de uma bomba do tipo "claymore", a qual explode de acordo com um comando. Para o trabakho, foi escolhido uma distância mínima de X metros para que a bomba exploda. O ciurcuito conta com um sensor ultrassônico que calcula a distância de algo na frente dele, ao atingir a distância escolhida X, é ativado um curto-circuito que gerará uma faísca em uma lâ de aço, ativando uma bombinha traque, explodindo a bomba. 
+O projeto se trata de uma simulação de uma bomba do tipo "claymore", a qual explode de acordo com um comando. Para o trabalho, foi escolhido uma distância mínima de X metros para que a bomba exploda. O ciurcuito conta com um sensor ultrassônico que calcula a distância de algo na frente dele, mostrando em dois displays de 7 segmentos essa distância. Quanto mais perto do sensor, mais rápido o LED contido no Arduino pisca, e também, mais rápido o buzzer ativo produz um som de "apito". Ao atingir a distância escolhida X, é gerado um curto-circuito que fomentará uma faísca em uma lã de aço, explodindo uma bombinha traque.
 
 ## Integrantes do Grupo 8
 * [Eduarda tuboy Nardin](https://github.com/EduardaTNardin) | nº USP 13732495
 * [Gabriel Barbosa dos Santos](https://github.com/GotemBarbosa) | nº USP 14613991
-* Guilherme Antonio Costa Bandeira | nº USP
+* Guilherme Antonio Costa Bandeira | nº USP 14575620
 * [Rafael Brazolin Alvez Mansur](https://github.com/RafaelMansurUsp)| nº USP
 * [Renan Parpinelli Scarpin](https://github.com/RenanScarpin)| nº USP 14712188
 
