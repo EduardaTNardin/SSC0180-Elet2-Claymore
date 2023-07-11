@@ -9,7 +9,7 @@ O projeto se trata de uma simulação de uma bomba do tipo "claymore", a qual ex
 * [Gabriel Barbosa dos Santos](https://github.com/GotemBarbosa) | nº USP 
 * Guilherme Antonio Costa Bandeira | nº USP
 * [Rafael Brazolin Alvez Mansur](https://github.com/RafaelMansurUsp)| nº USP
-* [Renan Parpinelli Scarpin].(https://github.com/RenanScarpin).| nº USP
+* [Renan Parpinelli Scarpin].(https://github.com/RenanScarpin)| nº USP
 
 ## Escolha dos Componentes 
 Todos os componentes abaixo, menos aqueles classificados como "emprestados", foram comprados na loja “Ca And Ma Componentes Eletrônicos”, localizada em São Carlos. os componentes "emprestados" foram adquiridos com o docente Eduardo Simões.
