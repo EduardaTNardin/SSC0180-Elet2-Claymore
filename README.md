@@ -8,7 +8,7 @@ O projeto se trata de uma simulação de uma bomba do tipo "claymore", a qual ex
 * [Eduarda tuboy Nardin](https://github.com/EduardaTNardin) | nº USP 13732495
 * [Gabriel Barbosa dos Santos](https://github.com/GotemBarbosa) | nº USP 14613991
 * [Guilherme Antonio Costa Bandeira](https://github.com/Guilherme-Bandeira) | nº USP 14575620
-* [Rafael Brazolin Alvez Mansur](https://github.com/RafaelMansurUsp)| nº USP
+* [Rafael Brazolin Alvez Mansur](https://github.com/RafaelMansurUsp)| nº USP 14604020
 * [Renan Parpinelli Scarpin](https://github.com/RenanScarpin)| nº USP 14712188
 
 ## Escolha dos Componentes 
