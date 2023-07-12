@@ -22,8 +22,8 @@ Quantidade | Componente | Especificações | Preço Unidade
 1 | Relê | 5V HJR-3FF | R$ 5,00
 10 | Jumpers | Macho x macho | R$ 0,70
 10 | Jumpers | Femea x Macho | R$ 0,70
-1 | Protoboard | BB-01 400P Sem base tower | R$ 20,40
-1 | Protoboard | --- | emprestado
+1 | Protoboard menor | BB-01 400P Sem base tower | R$ 20,40
+1 | Protoboard maior | --- | emprestado
 1 | Arduino | UNO | emprestado
 1 | Sensor ultrassônico | HCSR04 | emprestado
 30 | Bombinha | Traque | R$ 8,00
