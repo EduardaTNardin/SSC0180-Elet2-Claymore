@@ -23,6 +23,7 @@ Quantidade | Componente | Especificações | Preço Unidade
 10 | Jumpers | Macho x macho | R$ 0,70
 10 | Jumpers | Femea x Macho | R$ 0,70
 1 | Protoboard | BB-01 400P Sem base tower | R$ 20,40
+1 | Protoboard | --- | emprestado
 1 | Arduino | UNO | emprestado
 1 | Sensor ultrassônico | HCSR04 | emprestado
 30 | Bombinha | Traque | R$ 8,00
