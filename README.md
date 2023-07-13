@@ -30,6 +30,7 @@ Quantidade | Componente | Especificações | Preço Unidade
 Total | | | R$ 70,58
 
 ## Software
+O código feito no Arduino está no mesmo diretório deste README.
 
 ## Circuito no Tinkercad
 
