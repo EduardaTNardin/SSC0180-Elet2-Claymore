@@ -33,7 +33,7 @@ Total | | | R$ 70,58
 O código feito no Arduino está no mesmo diretório deste README.
 
 ## Circuito no Tinkercad
-Foi feito um tinkercad como base para a construção do projeto, evitando possíveis erros e que possibilitando a melhor escolha das peças a serem utilizadas.
+Foi feito um tinkercad como base para a construção do projeto, evitando possíveis erros e possibilitando a melhor escolha das peças a serem utilizadas.
 
 ![2ecf7d54-4295-4ccc-b0d2-57f0d4cef3d2](https://github.com/EduardaTNardin/SSC0180-Elet2-Claymore/assets/128496419/3941e710-4721-4f3f-9c19-8b13e108c2e7)
 ![7c6c8bf4-d96e-4448-8af4-e01c71cdeabd](https://github.com/EduardaTNardin/SSC0180-Elet2-Claymore/assets/128496419/56955d8d-f8fa-4363-8b86-394ea67f8c79)
