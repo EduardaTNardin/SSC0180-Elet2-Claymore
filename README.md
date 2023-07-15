@@ -41,6 +41,5 @@ Foi feito um tinkercad como base para a construção do projeto, evitando possí
 ![7c6c8bf4-d96e-4448-8af4-e01c71cdeabd](https://github.com/EduardaTNardin/SSC0180-Elet2-Claymore/assets/128496419/56955d8d-f8fa-4363-8b86-394ea67f8c79)
 Link do circuito no tinkercad [aqui](https://www.tinkercad.com/things/6d1lpRcROwe?sharecode=jFStIMAnefCAwi0d7LAkaeyAPSmBBmMxaPUtP1pa0Qs).
 
-
-
 ## Imagens e vídeo do projeto
+Fotos no diretório desde README e o vídeo neste [link](https://drive.google.com/file/d/1XHqMKAQCILarO1bMSCMrcJj7W0vMRowP/view?usp=sharing).
