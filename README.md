@@ -1,6 +1,8 @@
 # SSC0180-Elet2-Claymore
 Segundo projeto realizado para a disciplina Eletrônica para Computação [SSC0180], ministrado pelo docente [Eduardo Vale Simões](https://gitlab.com/simoesusp), durante o primeiro semestre do curso de Bacharelado em Ciências de Computação, na USP campus São Carlos.
 
+![claymore_explosion](https://github.com/EduardaTNardin/SSC0180-Elet2-Claymore/assets/128496419/5de66393-e1be-4091-9e0a-8a7643e5f649)
+
 # Sobre o Projeto
 O projeto se trata de uma simulação de uma bomba do tipo "claymore", a qual explode de acordo com um comando. Para o trabalho, foi escolhido uma distância mínima de 20 centímetros como o comando, porém essa distância pode ser alterada no código do Arduino. Ao atingir esse valor, a bomba explodirá. O ciurcuito conta com um sensor ultrassônico que calcula a distância de algo na frente dele, através da emissão de ondas sonoras de alta frequência, mostrando em dois displays de 7 segmentos essa distância, o esquerdo em metros e o direito em decímetros. Quanto mais perto do sensor, mais rápido o LED contido no Arduino pisca, e também, mais rápido o buzzer ativo produz um som de "apito". Ao atingir a distância escolhida de 20 centímetros, o Arduino emite um sinal ao relé, que permite a passagem de corrente elétrica. Ao unir o fio positivo com o negativo, além de um pedaço de lã de aço na ponta dos dois fios, é gerado um curto-circuito que ocasionará uma combustão, ascendendo as bombinhas traque que estarão na lã de aço, explodindo as bombas.
 
